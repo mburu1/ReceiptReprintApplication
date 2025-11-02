@@ -1,0 +1,24 @@
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Printing.dll
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Printing.pdb
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Core.dll
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Logging.dll
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Core.pdb
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Core.dll.config
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Logging.pdb
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\obj\Debug\ReceiptPrinter.Printing.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\obj\Debug\ReceiptPrinter.Printing.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\obj\Debug\ReceiptP.87E6681B.Up2Date
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\obj\Debug\ReceiptPrinter.Printing.dll
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\obj\Debug\ReceiptPrinter.Printing.pdb
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Printing.dll
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Printing.pdb
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Core.dll
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Logging.dll
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Core.pdb
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Core.dll.config
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\bin\Debug\ReceiptPrinter.Logging.pdb
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\obj\Debug\ReceiptPrinter.Printing.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\obj\Debug\ReceiptPrinter.Printing.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\obj\Debug\ReceiptP.87E6681B.Up2Date
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\obj\Debug\ReceiptPrinter.Printing.dll
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.Printing\obj\Debug\ReceiptPrinter.Printing.pdb

@@ -1,0 +1,38 @@
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.UI.exe.config
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.UI.exe
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.UI.pdb
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Core.dll
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Logging.dll
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Printing.dll
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Core.pdb
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Core.dll.config
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Logging.pdb
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Printing.pdb
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.Controls.ReceiptPreviewControl.resources
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.Forms.MainForm.resources
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.Properties.Resources.resources
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptP.27001B6D.Up2Date
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.exe
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.pdb
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.UI.exe.config
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.UI.exe
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.UI.pdb
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Core.dll
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Logging.dll
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Printing.dll
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Core.pdb
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Core.dll.config
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Logging.pdb
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\bin\Debug\ReceiptPrinter.Printing.pdb
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.Controls.ReceiptPreviewControl.resources
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.Forms.MainForm.resources
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.Properties.Resources.resources
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptP.27001B6D.Up2Date
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.exe
+C:\Users\pc\Desktop\Antony Mwangi IT Department\ReceiptReprintApplication\ReceiptPrinter.UI\obj\Debug\ReceiptPrinter.UI.pdb

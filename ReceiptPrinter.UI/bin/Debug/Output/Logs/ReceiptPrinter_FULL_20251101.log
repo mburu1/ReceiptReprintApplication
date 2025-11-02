@@ -1,0 +1,9 @@
+﻿[2025-11-01 09:54:51.341] [INFO   ] MainForm loaded.
+[2025-11-01 09:54:52.579] [INFO   ] Retrieved 45 stores
+[2025-11-01 09:54:52.844] [INFO   ] MainFormPresenter initialized successfully.
+[2025-11-01 09:55:00.440] [INFO   ] Generating receipt for: 110694
+[2025-11-01 09:55:00.443] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 1
+[2025-11-01 09:55:00.636] [INFO   ] Duplicate detection completed.
+[2025-11-01 09:55:00.719] [INFO   ] Template parsed successfully.
+[2025-11-01 09:55:00.724] [INFO   ] Receipt data retrieved and processed.
+[2025-11-01 09:55:00.753] [INFO   ] Preview updated successfully.

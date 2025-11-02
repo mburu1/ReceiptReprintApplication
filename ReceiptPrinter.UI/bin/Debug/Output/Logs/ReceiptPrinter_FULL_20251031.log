@@ -1,0 +1,427 @@
+﻿[2025-10-31 12:57:02.240] [INFO   ] MainForm loaded.
+[2025-10-31 12:57:02.966] [INFO   ] Retrieved 45 stores
+[2025-10-31 12:57:03.416] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 12:57:08.825] [INFO   ] Generating receipt for transaction: 109973
+[2025-10-31 12:57:08.829] [INFO   ] Getting receipt data for TransactionNumber: 109973, StoreID (UI): 1
+[2025-10-31 12:57:09.037] [INFO   ] Duplicate detection completed.
+[2025-10-31 12:57:09.101] [INFO   ] Template parsed successfully.
+[2025-10-31 12:57:09.105] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 12:57:09.148] [INFO   ] Preview updated successfully.
+[2025-10-31 12:57:13.531] [INFO   ] Printing receipt for transaction: 109973
+[2025-10-31 12:57:13.531] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 12:57:13.540] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 12:57:17.198] [INFO   ] Print completed successfully.
+[2025-10-31 12:57:17.200] [INFO   ] Receipt printed successfully.
+[2025-10-31 12:57:17.201] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 12:57:21.410] [INFO   ] Printing receipt for transaction: 109973
+[2025-10-31 12:57:21.411] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 12:57:21.413] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 12:57:24.839] [INFO   ] Print completed successfully.
+[2025-10-31 12:57:24.841] [INFO   ] Receipt printed successfully.
+[2025-10-31 12:57:24.842] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 13:05:15.017] [INFO   ] Generating receipt for transaction: 109975
+[2025-10-31 13:05:15.017] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 1
+[2025-10-31 13:05:15.142] [INFO   ] Duplicate detection completed.
+[2025-10-31 13:05:15.189] [INFO   ] Template parsed successfully.
+[2025-10-31 13:05:15.189] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 13:05:15.204] [INFO   ] Preview updated successfully.
+[2025-10-31 13:05:44.948] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 13:05:44.948] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 13:05:44.948] [INFO   ] Initiating Windows Driver print to Send To OneNote 16
+[2025-10-31 13:05:46.010] [INFO   ] Print completed successfully.
+[2025-10-31 13:05:46.010] [INFO   ] Receipt printed successfully.
+[2025-10-31 13:05:46.010] [INFO   ] Receipt printed to Send To OneNote 16
+[2025-10-31 13:12:03.818] [INFO   ] Generating receipt for transaction: 110694
+[2025-10-31 13:12:03.818] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 1
+[2025-10-31 13:12:03.928] [INFO   ] Duplicate detection completed.
+[2025-10-31 13:12:04.428] [INFO   ] Template parsed successfully.
+[2025-10-31 13:12:04.428] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 13:12:04.428] [INFO   ] Preview updated successfully.
+[2025-10-31 13:12:10.255] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 13:12:10.255] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 13:12:10.255] [INFO   ] Initiating Windows Driver print to Send To OneNote 16
+[2025-10-31 13:12:10.989] [INFO   ] Print completed successfully.
+[2025-10-31 13:12:10.989] [INFO   ] Receipt printed successfully.
+[2025-10-31 13:12:10.989] [INFO   ] Receipt printed to Send To OneNote 16
+[2025-10-31 13:12:27.235] [INFO   ] Generating receipt for transaction: 109975
+[2025-10-31 13:12:27.250] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 1
+[2025-10-31 13:12:27.329] [INFO   ] Duplicate detection completed.
+[2025-10-31 13:12:27.360] [INFO   ] Template parsed successfully.
+[2025-10-31 13:12:27.360] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 13:12:27.375] [INFO   ] Preview updated successfully.
+[2025-10-31 13:12:28.625] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 13:12:28.625] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 13:12:28.625] [INFO   ] Initiating Windows Driver print to Send To OneNote 16
+[2025-10-31 13:12:29.234] [INFO   ] Print completed successfully.
+[2025-10-31 13:12:29.234] [INFO   ] Receipt printed successfully.
+[2025-10-31 13:12:29.234] [INFO   ] Receipt printed to Send To OneNote 16
+[2025-10-31 13:12:55.837] [INFO   ] Generating receipt for transaction: 110694
+[2025-10-31 13:12:55.837] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 1
+[2025-10-31 13:12:55.884] [INFO   ] Duplicate detection completed.
+[2025-10-31 13:12:55.916] [INFO   ] Template parsed successfully.
+[2025-10-31 13:12:55.916] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 13:12:55.931] [INFO   ] Preview updated successfully.
+[2025-10-31 13:12:57.572] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 13:12:57.572] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 13:12:57.572] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 13:12:59.477] [INFO   ] Print completed successfully.
+[2025-10-31 13:12:59.477] [INFO   ] Receipt printed successfully.
+[2025-10-31 13:12:59.477] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 13:13:12.521] [INFO   ] Generating receipt for transaction: 109975
+[2025-10-31 13:13:12.521] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 1
+[2025-10-31 13:13:12.646] [INFO   ] Duplicate detection completed.
+[2025-10-31 13:13:12.677] [INFO   ] Template parsed successfully.
+[2025-10-31 13:13:12.677] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 13:13:12.677] [INFO   ] Preview updated successfully.
+[2025-10-31 13:13:14.177] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 13:13:14.177] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 13:13:14.177] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 13:13:15.911] [INFO   ] Print completed successfully.
+[2025-10-31 13:13:15.911] [INFO   ] Receipt printed successfully.
+[2025-10-31 13:13:15.911] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 13:13:29.518] [INFO   ] Generating receipt for transaction: 109973
+[2025-10-31 13:13:29.518] [INFO   ] Getting receipt data for TransactionNumber: 109973, StoreID (UI): 1
+[2025-10-31 13:13:29.564] [INFO   ] Duplicate detection completed.
+[2025-10-31 13:13:29.611] [INFO   ] Template parsed successfully.
+[2025-10-31 13:13:29.611] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 13:13:29.611] [INFO   ] Preview updated successfully.
+[2025-10-31 13:13:31.236] [INFO   ] Printing receipt for transaction: 109973
+[2025-10-31 13:13:31.236] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 13:13:31.236] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 13:13:32.939] [INFO   ] Print completed successfully.
+[2025-10-31 13:13:32.939] [INFO   ] Receipt printed successfully.
+[2025-10-31 13:13:32.939] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 13:15:05.933] [INFO   ] Printing receipt for transaction: 109973
+[2025-10-31 13:15:05.933] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 13:15:05.948] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 13:15:07.651] [INFO   ] Print completed successfully.
+[2025-10-31 13:15:07.651] [INFO   ] Receipt printed successfully.
+[2025-10-31 13:15:07.651] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 13:16:10.869] [INFO   ] Generating receipt for transaction: 110694
+[2025-10-31 13:16:10.869] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 1
+[2025-10-31 13:16:11.009] [INFO   ] Duplicate detection completed.
+[2025-10-31 13:16:11.166] [INFO   ] Template parsed successfully.
+[2025-10-31 13:16:11.166] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 13:16:11.181] [INFO   ] Preview updated successfully.
+[2025-10-31 13:16:13.196] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 13:16:13.196] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 13:16:13.196] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 13:16:15.165] [INFO   ] Print completed successfully.
+[2025-10-31 13:16:15.165] [INFO   ] Receipt printed successfully.
+[2025-10-31 13:16:15.165] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 14:50:35.831] [INFO   ] MainForm loaded.
+[2025-10-31 14:50:37.140] [INFO   ] Retrieved 45 stores
+[2025-10-31 14:50:37.565] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 14:50:43.575] [INFO   ] Generating receipt for transaction: 110694
+[2025-10-31 14:50:43.579] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 1
+[2025-10-31 14:50:43.844] [INFO   ] Duplicate detection completed.
+[2025-10-31 14:50:43.905] [INFO   ] Template parsed successfully.
+[2025-10-31 14:50:43.909] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 14:50:43.955] [INFO   ] Preview updated successfully.
+[2025-10-31 14:50:51.258] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 14:50:51.261] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 14:50:51.266] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 14:50:55.359] [INFO   ] Print completed successfully.
+[2025-10-31 14:50:55.360] [INFO   ] Receipt printed successfully.
+[2025-10-31 14:50:55.362] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 14:52:33.476] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 14:52:33.479] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 14:52:33.481] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 14:52:35.472] [WARNING] Paper size 'Custom 80mm Roll' not found; falling back to 'A4'
+[2025-10-31 14:52:37.600] [INFO   ] Print completed successfully.
+[2025-10-31 14:52:37.602] [INFO   ] Receipt printed successfully.
+[2025-10-31 14:52:37.603] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 14:55:10.954] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 14:55:10.956] [INFO   ] Creating printer for method: EscPos
+[2025-10-31 14:55:10.958] [INFO   ] Initiating ESC/POS print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 14:55:10.960] [INFO   ] ESC/POS command buffer built successfully.
+[2025-10-31 14:55:11.035] [ERROR  ] Error sending bytes to printer | Exception: MarshalDirectiveException: Cannot marshal 'parameter #3': Invalid managed/unmanaged type combination (this value type must be paired with Struct).
+   at ReceiptPrinter.Printing.EscPosPrinter.StartDocPrinter(IntPtr hPrinter, Int32 level, DOCINFOA& di)
+   at ReceiptPrinter.Printing.EscPosPrinter.SendBytesToPrinter(String printerName, Byte[] data) in C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\EscPosPrinter.cs:line 101
+[2025-10-31 14:55:11.084] [INFO   ] Receipt printed successfully.
+[2025-10-31 14:55:11.086] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 14:55:26.042] [INFO   ] Form controls and printers refreshed successfully.
+[2025-10-31 14:55:39.988] [INFO   ] Generating receipt for transaction: 110694
+[2025-10-31 14:55:39.989] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 
+[2025-10-31 14:55:40.541] [INFO   ] Duplicate detection completed.
+[2025-10-31 14:55:40.699] [INFO   ] Template parsed successfully.
+[2025-10-31 14:55:40.700] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 14:55:40.711] [INFO   ] Preview updated successfully.
+[2025-10-31 15:02:12.934] [INFO   ] MainForm loaded.
+[2025-10-31 15:02:15.245] [INFO   ] Retrieved 45 stores
+[2025-10-31 15:02:15.582] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 15:02:21.419] [INFO   ] Generating receipt for transaction: 110694
+[2025-10-31 15:02:21.423] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 1
+[2025-10-31 15:02:21.636] [INFO   ] Duplicate detection completed.
+[2025-10-31 15:02:21.710] [INFO   ] Template parsed successfully.
+[2025-10-31 15:02:21.718] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 15:02:21.760] [INFO   ] Preview updated successfully.
+[2025-10-31 15:02:26.645] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 15:02:26.649] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 15:02:26.655] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:02:31.316] [INFO   ] Print completed successfully.
+[2025-10-31 15:02:31.325] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:02:31.329] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:07:30.549] [INFO   ] MainForm loaded.
+[2025-10-31 15:07:31.158] [INFO   ] Retrieved 45 stores
+[2025-10-31 15:07:31.550] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 15:07:38.044] [INFO   ] Generating receipt for transaction: 110694
+[2025-10-31 15:07:38.052] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 1
+[2025-10-31 15:07:38.275] [INFO   ] Duplicate detection completed.
+[2025-10-31 15:07:38.365] [INFO   ] Template parsed successfully.
+[2025-10-31 15:07:38.370] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 15:07:38.430] [INFO   ] Preview updated successfully.
+[2025-10-31 15:07:39.645] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 15:07:39.650] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 15:07:39.653] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:07:43.323] [INFO   ] Print completed successfully.
+[2025-10-31 15:07:43.327] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:07:43.327] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:09:32.939] [INFO   ] Generating receipt for transaction: 109975
+[2025-10-31 15:09:32.940] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 1
+[2025-10-31 15:09:33.029] [INFO   ] Duplicate detection completed.
+[2025-10-31 15:09:33.103] [INFO   ] Template parsed successfully.
+[2025-10-31 15:09:33.104] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 15:09:33.117] [INFO   ] Preview updated successfully.
+[2025-10-31 15:09:44.588] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 15:09:44.589] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 15:09:44.591] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:09:46.870] [WARNING] Paper size 'Custom 80mm Roll' not found; falling back to 'A4'
+[2025-10-31 15:09:48.902] [INFO   ] Print completed successfully.
+[2025-10-31 15:09:48.903] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:09:48.905] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:09:50.508] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 15:09:50.509] [INFO   ] Creating printer for method: EscPos
+[2025-10-31 15:09:50.511] [INFO   ] Initiating ESC/POS print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:09:50.514] [INFO   ] ESC/POS command buffer built successfully.
+[2025-10-31 15:09:50.576] [ERROR  ] Error sending bytes to printer | Exception: MarshalDirectiveException: Cannot marshal 'parameter #3': Invalid managed/unmanaged type combination (this value type must be paired with Struct).
+   at ReceiptPrinter.Printing.EscPosPrinter.StartDocPrinter(IntPtr hPrinter, Int32 level, DOCINFOA& di)
+   at ReceiptPrinter.Printing.EscPosPrinter.SendBytesToPrinter(String printerName, Byte[] data) in C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\EscPosPrinter.cs:line 101
+[2025-10-31 15:09:50.629] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:09:50.631] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:10:04.898] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 15:10:04.902] [INFO   ] Creating printer for method: EscPos
+[2025-10-31 15:10:04.902] [INFO   ] Initiating ESC/POS print to KONICA MINOLTA C364SeriesPCL (Copy 1)
+[2025-10-31 15:10:04.904] [INFO   ] ESC/POS command buffer built successfully.
+[2025-10-31 15:10:04.926] [ERROR  ] Error sending bytes to printer | Exception: MarshalDirectiveException: Cannot marshal 'parameter #3': Invalid managed/unmanaged type combination (this value type must be paired with Struct).
+   at ReceiptPrinter.Printing.EscPosPrinter.StartDocPrinter(IntPtr hPrinter, Int32 level, DOCINFOA& di)
+   at ReceiptPrinter.Printing.EscPosPrinter.SendBytesToPrinter(String printerName, Byte[] data) in C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\EscPosPrinter.cs:line 101
+[2025-10-31 15:10:04.927] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:10:04.928] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPCL (Copy 1)
+[2025-10-31 15:10:36.436] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 15:10:36.440] [INFO   ] Creating printer for method: EscPos
+[2025-10-31 15:10:36.440] [INFO   ] Initiating ESC/POS print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:10:36.441] [INFO   ] ESC/POS command buffer built successfully.
+[2025-10-31 15:10:36.464] [ERROR  ] Error sending bytes to printer | Exception: MarshalDirectiveException: Cannot marshal 'parameter #3': Invalid managed/unmanaged type combination (this value type must be paired with Struct).
+   at ReceiptPrinter.Printing.EscPosPrinter.StartDocPrinter(IntPtr hPrinter, Int32 level, DOCINFOA& di)
+   at ReceiptPrinter.Printing.EscPosPrinter.SendBytesToPrinter(String printerName, Byte[] data) in C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\EscPosPrinter.cs:line 101
+[2025-10-31 15:10:36.468] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:10:36.469] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:11:21.475] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 15:11:21.476] [INFO   ] Creating printer for method: EscPos
+[2025-10-31 15:11:21.478] [INFO   ] Initiating ESC/POS print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:11:21.479] [INFO   ] ESC/POS command buffer built successfully.
+[2025-10-31 15:11:21.501] [ERROR  ] Error sending bytes to printer | Exception: MarshalDirectiveException: Cannot marshal 'parameter #3': Invalid managed/unmanaged type combination (this value type must be paired with Struct).
+   at ReceiptPrinter.Printing.EscPosPrinter.StartDocPrinter(IntPtr hPrinter, Int32 level, DOCINFOA& di)
+   at ReceiptPrinter.Printing.EscPosPrinter.SendBytesToPrinter(String printerName, Byte[] data) in C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\EscPosPrinter.cs:line 101
+[2025-10-31 15:11:21.506] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:11:21.507] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:11:44.611] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 15:11:44.613] [INFO   ] Creating printer for method: EscPos
+[2025-10-31 15:11:44.614] [INFO   ] Initiating ESC/POS print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:11:44.615] [INFO   ] ESC/POS command buffer built successfully.
+[2025-10-31 15:11:44.674] [ERROR  ] Error sending bytes to printer | Exception: MarshalDirectiveException: Cannot marshal 'parameter #3': Invalid managed/unmanaged type combination (this value type must be paired with Struct).
+   at ReceiptPrinter.Printing.EscPosPrinter.StartDocPrinter(IntPtr hPrinter, Int32 level, DOCINFOA& di)
+   at ReceiptPrinter.Printing.EscPosPrinter.SendBytesToPrinter(String printerName, Byte[] data) in C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Printing\EscPosPrinter.cs:line 101
+[2025-10-31 15:11:44.678] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:11:44.679] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:11:45.965] [INFO   ] Form controls and printers refreshed successfully.
+[2025-10-31 15:11:52.788] [INFO   ] Generating receipt for transaction: 109975
+[2025-10-31 15:11:52.789] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 
+[2025-10-31 15:11:52.844] [INFO   ] Duplicate detection completed.
+[2025-10-31 15:11:52.894] [INFO   ] Template parsed successfully.
+[2025-10-31 15:11:52.896] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 15:11:52.906] [INFO   ] Preview updated successfully.
+[2025-10-31 15:11:55.395] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 15:11:55.397] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 15:11:55.398] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:11:59.108] [INFO   ] Print completed successfully.
+[2025-10-31 15:11:59.112] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:11:59.118] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:12:09.596] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 15:12:09.597] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 15:12:09.598] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:12:12.518] [INFO   ] Print completed successfully.
+[2025-10-31 15:12:12.519] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:12:12.520] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:12:12.525] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 15:12:12.527] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 15:12:12.528] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:12:16.838] [INFO   ] Print completed successfully.
+[2025-10-31 15:12:16.838] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:12:16.838] [INFO   ] Receipt printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 15:40:47.077] [INFO   ] MainForm loaded.
+[2025-10-31 15:40:47.819] [INFO   ] Retrieved 45 stores
+[2025-10-31 15:40:48.246] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 15:57:44.087] [INFO   ] MainForm loaded.
+[2025-10-31 15:57:45.544] [INFO   ] Retrieved 45 stores
+[2025-10-31 15:57:46.036] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 15:58:23.574] [INFO   ] Generating receipt for: 109975
+[2025-10-31 15:58:23.580] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 1
+[2025-10-31 15:58:23.859] [INFO   ] Duplicate detection completed.
+[2025-10-31 15:58:23.941] [INFO   ] Template parsed successfully.
+[2025-10-31 15:58:23.942] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 15:58:23.987] [INFO   ] Preview updated successfully.
+[2025-10-31 15:58:40.877] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 15:58:40.882] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 15:58:44.830] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:58:44.831] [INFO   ] Receipt printed successfully.
+[2025-10-31 15:58:44.833] [INFO   ] Printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 16:09:49.573] [INFO   ] Form refreshed.
+[2025-10-31 16:10:26.636] [INFO   ] MainForm closing.
+[2025-10-31 16:26:06.540] [INFO   ] MainForm loaded.
+[2025-10-31 16:26:08.176] [INFO   ] Retrieved 45 stores
+[2025-10-31 16:26:08.870] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 16:26:20.663] [INFO   ] Generating receipt for: 109975
+[2025-10-31 16:26:20.670] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 1
+[2025-10-31 16:26:21.065] [INFO   ] Duplicate detection completed.
+[2025-10-31 16:26:21.141] [INFO   ] Template parsed successfully.
+[2025-10-31 16:26:21.145] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 16:26:21.201] [INFO   ] Preview updated successfully.
+[2025-10-31 16:26:35.375] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 16:26:35.380] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 16:26:39.691] [INFO   ] Receipt printed successfully.
+[2025-10-31 16:26:39.692] [INFO   ] Receipt printed successfully.
+[2025-10-31 16:26:39.693] [INFO   ] Printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 16:32:11.803] [INFO   ] MainForm closing.
+[2025-10-31 16:37:29.758] [INFO   ] MainForm loaded.
+[2025-10-31 16:37:30.873] [INFO   ] Retrieved 45 stores
+[2025-10-31 16:37:31.465] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 16:37:40.867] [INFO   ] Generating receipt for: 109975
+[2025-10-31 16:37:40.873] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 1
+[2025-10-31 16:37:41.093] [INFO   ] Duplicate detection completed.
+[2025-10-31 16:37:41.146] [INFO   ] Template parsed successfully.
+[2025-10-31 16:37:41.150] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 16:37:41.192] [INFO   ] Preview updated successfully.
+[2025-10-31 16:37:45.332] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 16:37:45.334] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 16:37:45.340] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 16:37:48.862] [INFO   ] Print completed successfully.
+[2025-10-31 16:37:48.863] [INFO   ] Receipt printed successfully.
+[2025-10-31 16:37:48.864] [INFO   ] Printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 16:39:43.196] [INFO   ] MainForm closing.
+[2025-10-31 16:43:06.294] [INFO   ] MainForm loaded.
+[2025-10-31 16:43:07.830] [INFO   ] Retrieved 45 stores
+[2025-10-31 16:43:08.190] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 16:43:16.650] [INFO   ] Generating receipt for: 109975
+[2025-10-31 16:43:16.650] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 1
+[2025-10-31 16:43:16.879] [INFO   ] Duplicate detection completed.
+[2025-10-31 16:43:16.965] [INFO   ] Template parsed successfully.
+[2025-10-31 16:43:16.970] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 16:43:17.024] [INFO   ] Preview updated successfully.
+[2025-10-31 16:43:20.048] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 16:43:20.048] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 16:43:20.059] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 16:43:23.976] [INFO   ] Print completed successfully.
+[2025-10-31 16:43:23.978] [INFO   ] Receipt printed successfully.
+[2025-10-31 16:43:23.979] [INFO   ] Printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 16:51:18.809] [INFO   ] MainForm loaded.
+[2025-10-31 16:51:20.749] [INFO   ] Retrieved 45 stores
+[2025-10-31 16:51:21.174] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 16:51:49.655] [INFO   ] Generating receipt for: 109975
+[2025-10-31 16:51:49.662] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 1
+[2025-10-31 16:51:50.028] [INFO   ] Duplicate detection completed.
+[2025-10-31 16:51:50.138] [INFO   ] Template parsed successfully.
+[2025-10-31 16:51:50.143] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 16:51:50.199] [INFO   ] Preview updated successfully.
+[2025-10-31 16:51:52.437] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 16:51:52.439] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 16:51:52.446] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 16:51:56.264] [INFO   ] Print completed successfully.
+[2025-10-31 16:51:56.265] [INFO   ] Receipt printed successfully.
+[2025-10-31 16:51:56.266] [INFO   ] Printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 17:01:17.667] [INFO   ] MainForm closing.
+[2025-10-31 17:09:52.533] [INFO   ] MainForm loaded.
+[2025-10-31 17:09:52.753] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 17:09:58.793] [INFO   ] Generating receipt for: 109975
+[2025-10-31 17:09:58.793] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 
+[2025-10-31 17:09:59.292] [INFO   ] Duplicate detection completed.
+[2025-10-31 17:09:59.343] [INFO   ] Template parsed successfully.
+[2025-10-31 17:09:59.359] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 17:09:59.390] [INFO   ] Preview updated successfully.
+[2025-10-31 17:12:41.192] [INFO   ] MainForm closing.
+[2025-10-31 17:16:44.979] [INFO   ] MainForm loaded.
+[2025-10-31 17:16:45.592] [INFO   ] Retrieved 45 stores
+[2025-10-31 17:16:45.866] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 17:16:51.296] [INFO   ] Generating receipt for: 109975
+[2025-10-31 17:16:51.296] [INFO   ] Getting receipt data for TransactionNumber: 109975, StoreID (UI): 1
+[2025-10-31 17:16:51.452] [INFO   ] Duplicate detection completed.
+[2025-10-31 17:16:51.497] [INFO   ] Template parsed successfully.
+[2025-10-31 17:16:51.497] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 17:16:51.528] [INFO   ] Preview updated successfully.
+[2025-10-31 17:16:52.882] [INFO   ] Printing receipt for transaction: 109975
+[2025-10-31 17:16:52.884] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 17:16:52.893] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 17:16:55.614] [INFO   ] Print completed successfully.
+[2025-10-31 17:16:55.614] [INFO   ] Receipt printed successfully.
+[2025-10-31 17:16:55.614] [INFO   ] Printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 17:28:05.723] [INFO   ] MainForm closing.
+[2025-10-31 17:29:06.232] [INFO   ] MainForm loaded.
+[2025-10-31 17:29:06.457] [INFO   ] Retrieved 45 stores
+[2025-10-31 17:29:06.723] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 17:29:14.322] [INFO   ] Generating receipt for: 110694
+[2025-10-31 17:29:14.326] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 1
+[2025-10-31 17:29:14.429] [INFO   ] Duplicate detection completed.
+[2025-10-31 17:29:14.466] [INFO   ] Template parsed successfully.
+[2025-10-31 17:29:14.466] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 17:29:14.481] [INFO   ] Preview updated successfully.
+[2025-10-31 17:29:16.653] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 17:29:16.653] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 17:29:16.653] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 17:29:18.824] [INFO   ] Print completed successfully.
+[2025-10-31 17:29:18.824] [INFO   ] Receipt printed successfully.
+[2025-10-31 17:29:18.824] [INFO   ] Printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 17:35:04.045] [INFO   ] MainForm closing.
+[2025-10-31 17:37:47.675] [INFO   ] MainForm loaded.
+[2025-10-31 17:37:47.970] [INFO   ] Retrieved 45 stores
+[2025-10-31 17:37:48.163] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 17:37:53.129] [INFO   ] Generating receipt for: 110694
+[2025-10-31 17:37:53.133] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 1
+[2025-10-31 17:37:53.264] [INFO   ] Duplicate detection completed.
+[2025-10-31 17:37:53.306] [INFO   ] Template parsed successfully.
+[2025-10-31 17:37:53.322] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 17:37:53.338] [INFO   ] Preview updated successfully.
+[2025-10-31 17:38:09.637] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 17:38:09.637] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 17:38:09.637] [INFO   ] Initiating Windows Driver print to KONICA MINOLTA C364SeriesPS
+[2025-10-31 17:38:11.840] [INFO   ] Print completed successfully.
+[2025-10-31 17:38:11.840] [INFO   ] Receipt printed successfully.
+[2025-10-31 17:38:11.840] [INFO   ] Printed to KONICA MINOLTA C364SeriesPS
+[2025-10-31 17:40:07.797] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 17:40:07.797] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 17:40:07.797] [INFO   ] Initiating Windows Driver print to Microsoft Print to PDF
+[2025-10-31 17:40:37.087] [INFO   ] Print completed successfully.
+[2025-10-31 17:40:37.087] [INFO   ] Receipt printed successfully.
+[2025-10-31 17:40:37.087] [INFO   ] Printed to Microsoft Print to PDF
+[2025-10-31 17:41:17.594] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 17:41:17.594] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 17:41:17.594] [INFO   ] Initiating Windows Driver print to Microsoft Print to PDF
+[2025-10-31 17:41:36.761] [INFO   ] Print completed successfully.
+[2025-10-31 17:41:36.776] [INFO   ] Receipt printed successfully.
+[2025-10-31 17:41:36.776] [INFO   ] Printed to Microsoft Print to PDF
+[2025-10-31 17:42:35.384] [INFO   ] MainForm closing.
+[2025-10-31 17:43:06.609] [INFO   ] MainForm loaded.
+[2025-10-31 17:43:06.918] [INFO   ] Retrieved 45 stores
+[2025-10-31 17:43:07.043] [INFO   ] MainFormPresenter initialized successfully.
+[2025-10-31 17:43:17.629] [INFO   ] Generating receipt for: 110694
+[2025-10-31 17:43:17.629] [INFO   ] Getting receipt data for TransactionNumber: 110694, StoreID (UI): 1
+[2025-10-31 17:43:17.754] [INFO   ] Duplicate detection completed.
+[2025-10-31 17:43:17.801] [INFO   ] Template parsed successfully.
+[2025-10-31 17:43:17.801] [INFO   ] Receipt data retrieved and processed.
+[2025-10-31 17:43:17.816] [INFO   ] Preview updated successfully.
+[2025-10-31 17:43:24.690] [INFO   ] Printing receipt for transaction: 110694
+[2025-10-31 17:43:24.690] [INFO   ] Creating printer for method: WindowsDriver
+[2025-10-31 17:43:24.690] [INFO   ] Initiating Windows Driver print to Microsoft Print to PDF
+[2025-10-31 17:43:38.983] [INFO   ] Print completed successfully.
+[2025-10-31 17:43:38.983] [INFO   ] Receipt printed successfully.
+[2025-10-31 17:43:38.983] [INFO   ] Printed to Microsoft Print to PDF
