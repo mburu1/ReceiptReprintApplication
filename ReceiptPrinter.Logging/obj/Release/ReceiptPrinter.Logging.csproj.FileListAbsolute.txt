@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Logging\bin\Release\ReceiptPrinter.Logging.dll
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Logging\bin\Release\ReceiptPrinter.Logging.pdb
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Logging\obj\Release\ReceiptPrinter.Logging.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Logging\obj\Release\ReceiptPrinter.Logging.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Logging\obj\Release\ReceiptPrinter.Logging.dll
+C:\Users\pc\Desktop\Antony Mwangi\ReceiptReprintApplication\ReceiptPrinter.Logging\obj\Release\ReceiptPrinter.Logging.pdb
